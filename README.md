@@ -1,1 +1,3 @@
-Para visualizar el proyecto, necesita ingresar al siguiente enlace:
+Archivo .py
+Por el momento se puede ejecutar en VisualStudioCode
+Ejecución Multiplataforma: En desarrollo 
